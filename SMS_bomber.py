@@ -21,9 +21,9 @@ def banner():
 |  $$$$$$/| $$ \/  | $$|  $$$$$$/      | $$$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$/| $$$$$$$$| $$  | $$
  \______/ |__/     |__/ \______/       |_______/  \______/ |__/     |__/|_______/ |________/|__/  |__/
                                                                                                                                                                                                     
-                                   By : D3XBugg3R 
-                                   Modded By: Lucas 
-                                With <3 of T34M GCA                                                                                                  
+                                   By : BerakHecker 
+                                   Modded By: Umam 
+                                With <3 of T34M Heck                                                                                                  
     Note : I won't be responsible for any damage caused by this script, Use at your own risk
 """)
 #http://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile=
